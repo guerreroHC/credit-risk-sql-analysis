@@ -31,6 +31,8 @@ The objective of this analysis is to identify:
 
 **Source:** Lending Club Loan Data
 
+**Kaggle URL:** https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv
+
 The dataset includes information related to:
 
 - Borrower income
@@ -264,4 +266,5 @@ credit-risk-sql-analysis/
 Data Analytics | SQL | Python | ETL | Risk Analytics
 
 GitHub: https://github.com/guerreroHC
+
 Linkedin: https://www.linkedin.com/in/cesarguerreroh/
