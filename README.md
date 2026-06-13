@@ -10,6 +10,24 @@ The project demonstrates how SQL can be used to transform raw lending data into 
 
 ---
 
+## Dashboard Preview
+
+![Credit Risk Dashboard](images/dashboard_overview.png)
+
+---
+
+## Business Impact
+
+Key findings from the analysis:
+
+- Grade C generated the highest estimated loss ($1.35B).
+- Debt Consolidation accounted for $2.83B in estimated losses.
+- Grade C + Debt Consolidation represented the highest-loss portfolio segment ($855M).
+- Default rates increased from 3.49% (Grade A) to 39.97% (Grade G).
+- Higher Debt-to-Income ratios consistently increased default probability.
+
+---
+
 ## Business Problem
 
 Financial institutions face a fundamental challenge:
