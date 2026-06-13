@@ -269,7 +269,6 @@ credit-risk-sql-analysis/
 
 ## Future Improvements
 
-- Build an interactive Power BI dashboard.
 - Develop a predictive credit risk model.
 - Compare portfolio performance across different economic periods.
 - Implement customer-level risk scoring.
@@ -283,6 +282,6 @@ credit-risk-sql-analysis/
 
 Data Analytics | SQL | Python | ETL | Risk Analytics
 
-GitHub: https://github.com/guerreroHC
-
 Linkedin: https://www.linkedin.com/in/cesarguerreroh/
+
+GitHub: https://github.com/guerreroHC
